@@ -57,3 +57,10 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+.card-deck {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px;
+}
+
