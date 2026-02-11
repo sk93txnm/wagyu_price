@@ -67,3 +67,7 @@ footer {
 .card {
   border-radius: 0;
 }
+
+.fa-search {
+  color:#17a2b8;   /* 好きな色に変更 */
+}
